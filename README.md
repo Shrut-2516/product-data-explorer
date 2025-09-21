@@ -9,7 +9,7 @@ Scraper: Node.js + Playwright + Crawlee
 
 Backend: NestJS + TypeORM + SQLite
 
-Frontend: React + Vite + Tailwind
+Frontend: React + TypeScript + Tailwind
 
 ⚡ Features
 
