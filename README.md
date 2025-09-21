@@ -68,26 +68,3 @@ product-data-explorer/
 │   └── backend-app/      # NestJS backend + TypeORM
 └── frontend/             # React + Vite frontend
 
-📝 Notes
-
-Always run scraper after backend is ready so data can be saved.
-
-The "All Books" category is skipped to avoid duplicates.
-
-SQLite database auto-creates tables on first run.
-
-📸 Demo
-
-Backend: API returns JSON of categories/products.
-
-![backend-categories](image.png)
-
-![backend-products](image.png)
-
-Frontend: UI shows categories and product listings.
-
-![frontend-categories](image.png)
-
-Scraper: Logs each page scrape + API POST confirmations.
-
-![scrapper-logs](image.png)
