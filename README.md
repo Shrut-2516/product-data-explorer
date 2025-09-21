@@ -79,9 +79,15 @@ SQLite database auto-creates tables on first run.
 📸 Demo
 
 Backend: API returns JSON of categories/products.
+
 ![backend-categories](image.png)
+
 ![backend-products](image.png)
+
 Frontend: UI shows categories and product listings.
+
 ![frontend-categories](image.png)
+
 Scraper: Logs each page scrape + API POST confirmations.
+
 ![scrapper-logs](image.png)
